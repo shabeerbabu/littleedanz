@@ -77,6 +77,12 @@ body, p {
     object-fit: cover;
 }
 
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
 .center1 {
 	display: block;
 	margin-left: auto;
@@ -96,6 +102,10 @@ body, p {
 h1 {
 	color: #333;
 	font: 700 2.50rem/3.3rem "Montserrat", sans-serif;
+}
+
+.aim{
+	color: red;
 }
 
 h2 {
